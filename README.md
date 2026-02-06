@@ -1,81 +1,62 @@
-<h1 align="center">Hi, I’m Brundhadevi 👋</h1>
 
-<p align="center">
-  Computer Science Student • Aspiring Software Engineer
-</p>
+# Hi, I’m Brundhadevi 👋
 
-<p align="center">
-  Focused on fundamentals, consistent practice, and real learning
-</p>
+### Computer Science Student · Aspiring Software Engineer  
+Focused on coding practice, strong fundamentals, and continuous learning
 
 ---
 
-## 👩‍🎓 About Me
+## 👩‍💻 About Me
 
-I’m a Computer Science student preparing for **software engineering roles**.  
-My primary focus is building **strong core fundamentals** and improving my **problem-solving ability through coding practice**.
+I am a Computer Science student preparing for software engineering roles.  
+I focus on building a strong foundation in computer science concepts and improving my problem-solving skills through consistent coding practice.
 
-I enjoy learning by:
+I enjoy:
 - Understanding concepts deeply  
-- Writing clear and structured code  
-- Applying theory through small projects  
+- Writing clean, structured, and readable code  
+- Applying theory through small, practical projects  
 
 ---
 
-## 🎯 Current Learning & Goals
+## 💻 Coding & Learning Focus
 
-- 📘 Data Structures & Algorithms using **Java**
-- 🌐 Web fundamentals (**HTML, CSS, JavaScript**)
-- 🛠 Mini projects to apply concepts
-- 💼 Preparing for **placements & technical interviews**
-
----
-
-## 🛠 Technical Skills
-
-**Programming**
-- Java  
-- JavaScript  
-
-**Web**
-- HTML  
-- CSS  
-
-**Tools**
-- Git  
-- GitHub  
-- VS Code  
+- 📘 Practicing **Data Structures & Algorithms** using **Java**
+- 🧩 Improving logical thinking through coding problems
+- 🌐 Learning **Web Development fundamentals**
+- 🛠️ Writing and maintaining code using Git & GitHub
 
 ---
 
-## 📂 Academic & Practice Projects
+## 🛠️ Languages and Tools
 
-My repositories mainly include:
-- DSA practice programs  
-- Concept-based Java implementations  
-- Simple web development projects  
-
-🔗 **https://github.com/brundhadevi534**
-
-(Selected repositories are pinned for quick access.)
-
----
-
-## 🤝 What I’m Looking For
-
-- Entry-level / internship opportunities  
-- Learning-oriented environments  
-- Chances to grow as a software engineer  
-
----
-
-## 🔗 Connect With Me
-
-- GitHub: https://github.com/brundhadevi534  
-- LinkedIn: *(add your LinkedIn profile link)*  
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=brundhadevi534&label=Profile%20Views&color=blue&style=flat"/>
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
+
+---
+
+## 📌 Current Goals
+
+- Strengthen **DSA & problem-solving skills**
+- Build small but meaningful **coding projects**
+- Write clean, maintainable, and efficient code
+- Prepare for **technical interviews & placements**
+
+---
+
+## 📂 Projects
+
+You can find my coding practice and projects here:  
+👉 https://github.com/brundhadevi534
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: **jithaya6@gmail.com**
+- 💻 GitHub: https://github.com/brundhadevi534
